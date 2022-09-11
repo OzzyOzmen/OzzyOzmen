@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzyozmen&label=Profile%20views&color=0e75b6&style=flat" alt="ozzyozmen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozzyozmen" alt="ozzyozmen" /></a> </p>
+
 
 - 🔭 I’m currently working on [MicroServiceProject](https://github.com/OzzyOzmen/MicroServiceProject)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ozmencelik/](https://www.linkedin.com/in/ozmencelik/)
+- 👨‍💻 All of my projects are available at [https://github.com/OzzyOzmen/](https://github.com/OzzyOzmen/)
 
 - 📫 How to reach me **https://www.linkedin.com/in/ozmencelik/**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozzyozmen" alt="ozzyozmen" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
