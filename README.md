@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OzzyOzmen/](https://github.com/OzzyOzmen/)
 
-- 👨‍💻 Company Website link : [https://ozzyconsultancy.com]((https://ozzyconsultancy.com))
+- 👨‍💻 Company Website link : [https://ozzyconsultancy.com](https://ozzyconsultancy.com)
 
 - 📫 How to reach me **https://www.linkedin.com/in/ozmencelik/**
 
