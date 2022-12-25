@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/OzzyOzmen/](https://github.com/OzzyOzmen/)
 
+- 👨‍💻 Company Website link : [https://ozzyconsultancy.com]((https://ozzyconsultancy.com))
+
 - 📫 How to reach me **https://www.linkedin.com/in/ozmencelik/**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozzyozmen" alt="ozzyozmen" /></a> </p>
