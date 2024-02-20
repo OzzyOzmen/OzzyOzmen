@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ....
 
-- 👨‍💻 All of my projects are available at [https://github.com/OzzyOzmen/](https://github.com/OzzyOzmen/)
+- 👨‍💻 Few of my repositories are available at [https://github.com/OzzyOzmen/](https://github.com/OzzyOzmen/)
 
 - 👨‍💻 Company Website link : [https://ozzyconsultancy.com](https://ozzyconsultancy.com)
 
