@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [MicroServiceProject](https://github.com/OzzyOzmen/MicroServiceProject)
+- 🔭 I’m currently working on ....
 
 - 👨‍💻 All of my projects are available at [https://github.com/OzzyOzmen/](https://github.com/OzzyOzmen/)
 
